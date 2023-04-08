@@ -18,3 +18,13 @@ This project is for self-study of Django for back-end and React for front-end to
 - Learned basic operations of Django (e.g. views, models and urls management)
 - Learned how to apply system changes to the app (makemigrations, migrate)
 - Serialising data
+
+### 07/Apr/2023
+- Wrote some React codes and refreshed
+- This tutorial contains a classic method of React coding such as using Class not Functional programming
+- Learned React routes to move around different URLs.
+
+### 08/Apr/2023
+- Learned how to use POST request in the Django backend
+- Some understandings of Serializer, django models.
+- I think I need more easier tutorial for fully understanding of django
