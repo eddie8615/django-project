@@ -28,3 +28,7 @@ This project is for self-study of Django for back-end and React for front-end to
 - Learned how to use POST request in the Django backend
 - Some understandings of Serializer, django models.
 - I think I need more easier tutorial for fully understanding of django
+
+### 09/Apr/2023
+- Designed frontend with MaterialUI
+- Connected to backend
