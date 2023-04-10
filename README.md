@@ -33,3 +33,7 @@ This project is for self-study of Django for back-end and React for front-end to
 - Designed frontend with MaterialUI
 - Connected to backend
 - Prepared for data analytics libraries for music mood classification
+
+### 10/Apr/2023
+- Join room functions
+- Simple frontend and backend stuffs
