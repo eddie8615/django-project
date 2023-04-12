@@ -38,3 +38,6 @@ This project is for self-study of Django for back-end and React for front-end to
 - Join room functions
 - Simple frontend and backend stuffs
 - Used session to redirect
+
+### 12/Apr/2023
+- Clearing session and redirecting
