@@ -42,3 +42,6 @@ This project is for self-study of Django for back-end and React for front-end to
 ### 12/Apr/2023
 - Clearing session and redirecting
 - Implemented setting page
+
+### 14/Apr/2023
+- Activate Spotify API
